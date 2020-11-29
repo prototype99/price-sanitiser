@@ -1,0 +1,137 @@
+id,name,base,type,pump,alc,cl,clAlc,packsize,quantity,cost,delivery,clCost,clAlcCost,url
+,"pure life",glycerin,,1,80,3,,4,,1.95,1.99,,,https://www.amazon.co.uk/dp/B0864TQZN8
+,asprotools,,,1,80,50,,,,19.99,,,,https://www.amazon.co.uk/dp/B087QS4Q94
+,instant,,,1,75,50,,,,12.95,,,,https://www.amazon.co.uk/dp/B08B1YVCV7
+,oceanfree,glycerin,ethanol,1,70,6,,,,4.99,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,6,,,3,3,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,6,,,12,2.5,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,6,,,24,2.25,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,6,,,96,2,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,6,,,500,1.75,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,6,,,1000,1.5,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,6,,,2000,1.25,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,6,,,5000,1,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-60ml/
+,oceanfree,glycerin,ethanol,1,70,50,,,,14.99,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-500ml/
+,oceanfree,glycerin,ethanol,1,70,50,,,3,10,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-500ml/
+,oceanfree,glycerin,ethanol,1,70,50,,,6,9,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-500ml/
+,oceanfree,glycerin,ethanol,1,70,50,,,12,8,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-500ml/
+,oceanfree,glycerin,ethanol,1,70,50,,,24,7,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-500ml/
+,oceanfree,glycerin,ethanol,1,70,50,,,96,6.5,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-500ml/
+,oceanfree,glycerin,ethanol,1,70,50,,,240,6,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-500ml/
+,oceanfree,glycerin,ethanol,1,70,50,,,960,5.5,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-500ml/
+,oceanfree,liquid,ethanol,1,70,50,,,,14.99,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-500ml/
+,oceanfree,liquid,ethanol,1,70,50,,,3,10,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-500ml/
+,oceanfree,liquid,ethanol,1,70,50,,,6,9,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-500ml/
+,oceanfree,liquid,ethanol,1,70,50,,,12,8,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-500ml/
+,oceanfree,liquid,ethanol,1,70,50,,,24,7,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-500ml/
+,oceanfree,liquid,ethanol,1,70,50,,,96,6.5,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-500ml/
+,oceanfree,liquid,ethanol,1,70,50,,,240,6,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-500ml/
+,oceanfree,liquid,ethanol,1,70,50,,,960,5.5,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-500ml/
+,oceanfree,glycerin,ethanol,1,80,50,,,,14.99,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-500ml/
+,oceanfree,glycerin,ethanol,1,80,50,,,3,10,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-500ml/
+,oceanfree,glycerin,ethanol,1,80,50,,,6,9,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-500ml/
+,oceanfree,glycerin,ethanol,1,80,50,,,12,8,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-500ml/
+,oceanfree,glycerin,ethanol,1,80,50,,,24,7,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-500ml/
+,oceanfree,glycerin,ethanol,1,80,50,,,96,6.5,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-500ml/
+,oceanfree,glycerin,ethanol,1,80,50,,,240,6,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-500ml/
+,oceanfree,glycerin,ethanol,1,80,50,,,960,5.5,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-500ml/
+,oceanfree,glycerin,ethanol,1,70,100,,,,19.99,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-1l/
+,oceanfree,glycerin,ethanol,1,70,100,,,3,16,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-1l/
+,oceanfree,glycerin,ethanol,1,70,100,,,6,14.5,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-1l/
+,oceanfree,glycerin,ethanol,1,70,100,,,12,13,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-1l/
+,oceanfree,glycerin,ethanol,1,70,100,,,24,12,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-1l/
+,oceanfree,glycerin,ethanol,1,70,100,,,96,11,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-1l/
+,oceanfree,glycerin,ethanol,1,70,100,,,240,10,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-1l/
+,oceanfree,glycerin,ethanol,1,70,100,,,960,9,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-1l/
+,oceanfree,glycerin,ethanol,,70,500,,,,39.99,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l/
+,oceanfree,glycerin,ethanol,,70,500,,,3,35,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l/
+,oceanfree,glycerin,ethanol,,70,500,,,10,33,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l/
+,oceanfree,glycerin,ethanol,,70,500,,,20,31,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l/
+,oceanfree,glycerin,ethanol,,70,500,,,40,29,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l/
+,oceanfree,glycerin,ethanol,,70,500,,,80,28,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l/
+,oceanfree,glycerin,ethanol,,70,500,,,160,27,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l/
+,oceanfree,glycerin,ethanol,,70,500,,,320,26,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l/
+,oceanfree,liquid,ethanol,,70,500,,,,39.99,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l/
+,oceanfree,liquid,ethanol,,70,500,,,3,35,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l/
+,oceanfree,liquid,ethanol,,70,500,,,10,33,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l/
+,oceanfree,liquid,ethanol,,70,500,,,20,31,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l/
+,oceanfree,liquid,ethanol,,70,500,,,40,29,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l/
+,oceanfree,liquid,ethanol,,70,500,,,80,28,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l/
+,oceanfree,liquid,ethanol,,70,500,,,160,27,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l/
+,oceanfree,liquid,ethanol,,70,500,,,320,26,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l/
+,oceanfree,glycerin,ethanol,,80,500,,,,39.99,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l/
+,oceanfree,glycerin,ethanol,,80,500,,,3,35,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l/
+,oceanfree,glycerin,ethanol,,80,500,,,10,33,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l/
+,oceanfree,glycerin,ethanol,,80,500,,,20,31,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l/
+,oceanfree,glycerin,ethanol,,80,500,,,40,29,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l/
+,oceanfree,glycerin,ethanol,,80,500,,,80,28,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l/
+,oceanfree,glycerin,ethanol,,80,500,,,160,27,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l/
+,oceanfree,glycerin,ethanol,,80,500,,,320,26,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l/
+,oceanfree,glycerin,ethanol,1,70,500,,,,49.99,,,,https://www.amazon.co.uk/dp/B089GZ3TT5
+,oceanfree,glycerin,ethanol,1,70,500,,,,49.99,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,70,500,,,3,45,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,70,500,,4,,190,,,,https://www.amazon.co.uk/dp/B089GZ3TT5
+,oceanfree,glycerin,ethanol,1,70,500,,,10,43,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,70,500,,,20,41,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,70,500,,,40,39,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,70,500,,,80,38,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,70,500,,,160,37,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,70,500,,,320,36,,,,https://www.oceanfree.com/product/hand-sanitiser-gel-5l-with-pump/
+,oceanfree,liquid,ethanol,1,70,500,,,,49.99,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l-with-pump/
+,oceanfree,liquid,ethanol,1,70,500,,,3,45,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l-with-pump/
+,oceanfree,liquid,ethanol,1,70,500,,,10,43,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l-with-pump/
+,oceanfree,liquid,ethanol,1,70,500,,,20,41,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l-with-pump/
+,oceanfree,liquid,ethanol,1,70,500,,,40,39,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l-with-pump/
+,oceanfree,liquid,ethanol,1,70,500,,,80,38,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l-with-pump/
+,oceanfree,liquid,ethanol,1,70,500,,,160,37,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l-with-pump/
+,oceanfree,liquid,ethanol,1,70,500,,,320,36,,,,https://www.oceanfree.com/product/antiseptic-disinfectant-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,80,500,,,,49.99,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,80,500,,,3,45,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,80,500,,,10,43,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,80,500,,,20,41,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,80,500,,,40,39,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,80,500,,,80,38,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,80,500,,,160,37,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l-with-pump/
+,oceanfree,glycerin,ethanol,1,80,500,,,320,36,,,,https://www.oceanfree.com/product/hand-sanitiser-liquid-rub-5l-with-pump/
+,"lakeland cosmetic",glycerin,ethanol,1,80,500,,,,39.99,,,,https://www.amazon.co.uk/dp/B087ZR1Y66
+,"lakeland cosmetic",glycerin,ethanol,1,70,5,,,,4.16,,,,https://lakelandcosmetics.co.uk/shop/50ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,5,,,10,2.5,,,,https://lakelandcosmetics.co.uk/shop/50ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,5,,,25,2.08,,,,https://lakelandcosmetics.co.uk/shop/50ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,5,,,50,1.88,,,,https://lakelandcosmetics.co.uk/shop/50ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,5,,,100,1.67,,,,https://lakelandcosmetics.co.uk/shop/50ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,5,,,200,1.46,,,,https://lakelandcosmetics.co.uk/shop/50ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,5,,,400,1.25,,,,https://lakelandcosmetics.co.uk/shop/50ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,5,,,800,1.04,,,,https://lakelandcosmetics.co.uk/shop/50ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,,,12.49,,,,https://lakelandcosmetics.co.uk/shop/500ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,,4,8.33,,,,https://lakelandcosmetics.co.uk/shop/500ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,6,,37.99,,,,https://www.amazon.co.uk/dp/B08B4TSXC5
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,,8,7.5,,,,https://lakelandcosmetics.co.uk/shop/500ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,,16,6.67,,,,https://lakelandcosmetics.co.uk/shop/500ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,,32,5.83,,,,https://lakelandcosmetics.co.uk/shop/500ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,,64,5.42,,,,https://lakelandcosmetics.co.uk/shop/500ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,,128,5,,,,https://lakelandcosmetics.co.uk/shop/500ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,50,,,256,4.58,,,,https://lakelandcosmetics.co.uk/shop/500ml-moisturising-anti-bacterial-hand-sanitiser-70-alcohol/
+,"lakeland cosmetic",liquid,ethanol,1,80,50,,,,12.49,,,,https://lakelandcosmetics.co.uk/shop/80-alcohol-hand-sanitiser-liquid-rub-500ml/
+,"lakeland cosmetic",liquid,ethanol,1,80,50,,,4,8.33,,,,https://lakelandcosmetics.co.uk/shop/80-alcohol-hand-sanitiser-liquid-rub-500ml/
+,"lakeland cosmetic",liquid,ethanol,1,80,50,,,8,7.5,,,,https://lakelandcosmetics.co.uk/shop/80-alcohol-hand-sanitiser-liquid-rub-500ml/
+,"lakeland cosmetic",liquid,ethanol,1,80,50,,,16,6.67,,,,https://lakelandcosmetics.co.uk/shop/80-alcohol-hand-sanitiser-liquid-rub-500ml/
+,"lakeland cosmetic",liquid,ethanol,1,80,50,,,32,5.83,,,,https://lakelandcosmetics.co.uk/shop/80-alcohol-hand-sanitiser-liquid-rub-500ml/
+,"lakeland cosmetic",liquid,ethanol,1,80,50,,,64,5.42,,,,https://lakelandcosmetics.co.uk/shop/80-alcohol-hand-sanitiser-liquid-rub-500ml/
+,"lakeland cosmetic",liquid,ethanol,1,80,50,,,128,5,,,,https://lakelandcosmetics.co.uk/shop/80-alcohol-hand-sanitiser-liquid-rub-500ml/
+,"lakeland cosmetic",liquid,ethanol,1,80,50,,,256,4.58,,,,https://lakelandcosmetics.co.uk/shop/80-alcohol-hand-sanitiser-liquid-rub-500ml/
+,"lakeland cosmetic",glycerin,ethanol,,70,500,,,,33.33,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,,70,500,,,4,29.17,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,,70,500,,,8,27.5,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,,70,500,,,16,25.83,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,,70,500,,,32,24.17,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,,70,500,,,64,23.33,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,,70,500,,,128,22.5,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,,70,500,,,256,21.67,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,500,,,,41.66,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,500,,,4,37.5,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,500,,,8,35.83,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,500,,,16,34.17,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,500,,,32,32.5,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,500,,,64,31.67,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,500,,,128,30.83,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
+,"lakeland cosmetic",glycerin,ethanol,1,70,500,,,256,30,,,,https://lakelandcosmetics.co.uk/shop/5-litre-hand-sanitiser-gel-70-alcohol/
